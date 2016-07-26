@@ -12,6 +12,7 @@
 		169ADD071D45C80B00BDEA6D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 169ADD051D45C80B00BDEA6D /* Main.storyboard */; };
 		169ADD091D45C80B00BDEA6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 169ADD081D45C80B00BDEA6D /* Assets.xcassets */; };
 		169ADD0C1D45C80B00BDEA6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 169ADD0A1D45C80B00BDEA6D /* LaunchScreen.storyboard */; };
+		169ADD141D45C97400BDEA6D /* Tri Ky - Phan Manh Quynh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 169ADD131D45C97400BDEA6D /* Tri Ky - Phan Manh Quynh.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		169ADD081D45C80B00BDEA6D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		169ADD0B1D45C80B00BDEA6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		169ADD0D1D45C80B00BDEA6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		169ADD131D45C97400BDEA6D /* Tri Ky - Phan Manh Quynh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Tri Ky - Phan Manh Quynh.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				169ADD081D45C80B00BDEA6D /* Assets.xcassets */,
 				169ADD0A1D45C80B00BDEA6D /* LaunchScreen.storyboard */,
 				169ADD0D1D45C80B00BDEA6D /* Info.plist */,
+				169ADD131D45C97400BDEA6D /* Tri Ky - Phan Manh Quynh.mp3 */,
 			);
 			path = DemoUISlider;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			files = (
 				169ADD0C1D45C80B00BDEA6D /* LaunchScreen.storyboard in Resources */,
 				169ADD091D45C80B00BDEA6D /* Assets.xcassets in Resources */,
+				169ADD141D45C97400BDEA6D /* Tri Ky - Phan Manh Quynh.mp3 in Resources */,
 				169ADD071D45C80B00BDEA6D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -289,6 +293,7 @@
 				169ADD121D45C80B00BDEA6D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
